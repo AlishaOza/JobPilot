@@ -1,0 +1,133 @@
+{
+  "name": "Alisha Oza",
+  "email": "ozaalisha2304@gmail.com",
+  "phone": "8401223692",
+  "location": "Pune, Maharashtra, India",
+  "experienceMonths": 10,
+  "availability": "Immediate",
+
+  "skills": [
+    "Angular",
+    "Angular 17+",
+    "React",
+    "React.js",
+    "JavaScript",
+    "TypeScript",
+    "HTML5",
+    "CSS3",
+    "Tailwind CSS",
+    "Angular Material",
+    "NgRx",
+    "RxJS",
+    "Angular CDK",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "MySQL",
+    "SQLite",
+    "Firebase",
+    "REST APIs",
+    "GraphQL",
+    "Git",
+    "GitHub",
+    "Vite",
+    "Vercel",
+    "Playwright",
+    "axe-core",
+    "Data Structures & Algorithms",
+    "OOP",
+    "AI/LLM API Integration",
+    "SSE",
+    "Monaco Editor"
+  ],
+
+  "education": {
+    "degree": "B.E. in Information Technology",
+    "college": "G.H. Patel College of Engineering & Technology",
+    "graduationYear": "2026",
+    "cgpa": "8.82/10"
+  },
+
+  "links": {
+    "linkedin": "https://www.linkedin.com/in/alishaoza",
+    "github": "https://github.com/AlishaOza",
+    "portfolio": "https://alishaozaportfolio.netlify.app/"
+  },
+
+  "resumes": [
+    {
+      "name": "Software Developer Resume",
+      "path": "./resumes/Resume(3).pdf",
+      "tags": [
+        "software-developer",
+        "software-engineer",
+        "frontend",
+        "angular",
+        "react",
+        "javascript",
+        "typescript",
+        "fullstack",
+        "node",
+        "web-development"
+      ]
+    }
+  ],
+
+  "preferences": {
+    "roles": [
+      "Software Developer",
+      "Software Engineer",
+      "SDE",
+      "Software Development Engineer",
+      "Associate Software Engineer",
+      "Junior Software Developer",
+      "Junior Software Engineer",
+      "Application Developer",
+      "Web Developer",
+      "Web Application Developer",
+      "Frontend Developer",
+      "Frontend Engineer",
+      "Angular Developer",
+      "Angular Frontend Developer",
+      "React Developer",
+      "React.js Developer",
+      "React Frontend Developer",
+      "JavaScript Developer",
+      "TypeScript Developer",
+      "UI Developer",
+      "UI Engineer",
+      "Full-Stack Developer",
+      "Full-Stack Engineer",
+      "MERN Stack Developer",
+      "Node.js Developer",
+      "JavaScript Full-Stack Developer",
+      "Software Developer Intern",
+      "SDE Intern",
+      "Frontend Developer Intern",
+      "Full-Stack Developer Intern"
+    ],
+
+    "locations": [
+      "Pune",
+      "Mumbai",
+      "Bangalore",
+      "Bengaluru",
+      "Hyderabad",
+      "Noida",
+      "Gurgaon",
+      "Gurugram",
+      "Ahmedabad",
+      "Vadodara",
+      "Remote",
+      "India"
+    ],
+
+    "workModes": [
+      "Remote",
+      "Hybrid",
+      "Onsite"
+    ],
+
+    "experienceBand": "0-2 years"
+  }
+}
